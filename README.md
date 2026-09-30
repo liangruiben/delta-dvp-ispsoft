@@ -99,10 +99,10 @@ RET
 
 ```bash
 # WorkBuddy / CodeBuddy
-git clone https://github.com/<you>/delta-dvp-ispsoft ~/.workbuddy/skills/delta-dvp-ispsoft
+git clone https://github.com/liangruiben/delta-dvp-ispsoft ~/.workbuddy/skills/delta-dvp-ispsoft
 
 # Claude Code 等使用 ~/.claude/skills 的环境
-git clone https://github.com/<you>/delta-dvp-ispsoft ~/.claude/skills/delta-dvp-ispsoft
+git clone https://github.com/liangruiben/delta-dvp-ispsoft ~/.claude/skills/delta-dvp-ispsoft
 ```
 
 之后直接用自然语言提问即可（"帮我把这份指令表生成 ISPSoft 工程"、"这个 .mpu 报错 240 怎么改"），
